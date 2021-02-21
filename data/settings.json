@@ -1,0 +1,50 @@
+{
+  "useCookies": false,
+  "maps": {
+    "HubSurvie": {
+      "enabled": true,
+      "hires": {
+        "tileSize": {
+          "x": 32,
+          "z": 32
+        },
+        "scale": {
+          "x": 1,
+          "z": 1
+        },
+        "translate": {
+          "x": 2,
+          "z": 2
+        }
+      },
+      "lowres": {
+        "tileSize": {
+          "x": 400,
+          "z": 400
+        },
+        "scale": {
+          "x": 8,
+          "z": 8
+        },
+        "translate": {
+          "x": 4,
+          "z": 4
+        }
+      },
+      "startPos": {
+        "x": 10,
+        "z": 9
+      },
+      "world": "0368bd31-732f-47eb-9b05-c6a64509396c",
+      "ordinal": 0,
+      "skyColor": {
+        "r": 0.49019608,
+        "g": 0.67058825,
+        "b": 1.0
+      },
+      "ambientLight": 1.0,
+      "name": "Le Hub du Survie",
+      "last-render": 1613925841478
+    }
+  }
+}
